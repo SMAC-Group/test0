@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542115749938.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DC0E99C8",
+    "lastKnownWriteTime" : 1542115314,
+    "last_content_update" : 1542115314,
+    "path" : "~/Github/SMAC-Group/test/inst/shiny/app.R",
+    "project_path" : "inst/shiny/app.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

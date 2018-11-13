@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542115331964.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FF55E0BC",
+    "lastKnownWriteTime" : 1542115507,
+    "last_content_update" : 1542115507048,
+    "path" : "~/Github/SMAC-Group/test/R/run_shiny.R",
+    "project_path" : "R/run_shiny.R",
+    "properties" : {
+        "cursorPosition" : "7,48",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

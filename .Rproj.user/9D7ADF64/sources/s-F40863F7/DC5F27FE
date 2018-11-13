@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542114872892.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DC5F27FE",
+    "lastKnownWriteTime" : 1542113083,
+    "last_content_update" : 1542113083,
+    "path" : "~/Github/SMAC-Group/test/R/st_petersburg_game.R",
+    "project_path" : "R/st_petersburg_game.R",
+    "properties" : {
+        "cursorPosition" : "12,29",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
